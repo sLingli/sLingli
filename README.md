@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sLingli&show_icons=true&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sLingli&layout=compact&theme=radical&hide_border=true" />
-
-</div>
+## Hi there sLingli 👋
 
 <div align="center">
 
