@@ -1,10 +1,10 @@
 name: Metrics
 on:
-  # 每天半夜 0 点自动跑一次
+  # 每天半夜 0 点自动更新
   schedule: [{cron: "0 0 * * *"}]
-  # 允许你手动点按钮跑 (调试用)
+  # 允许手动触发
   workflow_dispatch:
-  # 每次你推代码到 main 分支时跑
+  # 推送代码时触发
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -14,16 +14,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # 你的 Token
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # 基础配置
           user: sLingli
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: "" 
           config_timezone: Asia/Shanghai
           
-          # 🐱 宠物猫插件 (Tamagotchi)
+          # 🐱 开启猫咪插件
           plugin_tamagotchi: yes
           plugin_tamagotchi_symbol: 🐱
           plugin_tamagotchi_gif: yes
