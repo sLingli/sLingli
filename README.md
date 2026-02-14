@@ -4,12 +4,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sLingli&theme=react-dark&bg_color=0D1117&hide_border=true" />
 
-</div>
-<div align="center">
-  <h3>My Coding Pet 🐱 </h3>
-  <br>
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
-</div>
+
 <!--
 **sLingli/sLingli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
