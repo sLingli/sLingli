@@ -6,8 +6,10 @@ on:
   workflow_dispatch:
   # 推送代码时触发
   push: {branches: ["master", "main"]}
+
 jobs:
-  github-metrics:
+  # Job 1: 语言进度条
+  languages:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -15,14 +17,36 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
           user: sLingli
           template: classic
-          base: "" 
+          base: ""
           config_timezone: Asia/Shanghai
-          
-          # 🐱 开启猫咪插件
-          plugin_tamagotchi: yes
-          plugin_tamagotchi_symbol: 🐱
-          plugin_tamagotchi_gif: yes
-          plugin_tamagotchi_carrier: yes
+          filename: languages.svg
+
+          # 📊 语言进度条
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+          plugin_languages_ignored: html, css, shell, makefile, dockerfile
+          plugin_languages_sections: most-used
+
+  # Job 2: 编码习惯
+  habits:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: sLingli
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          filename: habits.svg
+
+          # 🕐 编码习惯
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 30
+          plugin_habits_from: 200
