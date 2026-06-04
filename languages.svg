@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.33422108856297" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="398.33422108856297" y="0" width="33.88414169073609" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="432.218362779299" y="0" width="27.78163722070095" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="401.21296788543555" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="401.21296788543555" y="0" width="32.30232652389818" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="433.51529440933376" y="0" width="26.48470559066625" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,7 +35,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>86.59%</div>
+                                <div>87.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -46,7 +46,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>6.04%</div>
+                                <div>5.76%</div>
                             </small>
                         </div>
                     </section>
@@ -59,7 +59,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>7.37%</div>
+                                <div>7.02%</div>
                             </small>
                         </div>
                     </section>
