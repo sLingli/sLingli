@@ -3,6 +3,10 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sLingli&theme=react-dark&bg_color=0D1117&hide_border=true" />
+
+<!--START_SECTION:repobeats-->
+<!--END_SECTION:repobeats-->
+
 <img src="./languages.svg" alt="Languages" />
 
 <!--
