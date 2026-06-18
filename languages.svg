@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="380.21854709701705" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="380.21854709701705" y="0" width="53.646466547473416" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="433.8650136444905" y="0" width="26.13498635550955" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="380.4020005884083" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="380.4020005884083" y="0" width="53.45040305972345" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="433.8524036481318" y="0" width="26.147596351868195" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,7 +35,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>82.66%</div>
+                                <div>82.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -59,7 +59,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>11.66%</div>
+                                <div>11.62%</div>
                             </small>
                         </div>
                     </section>
