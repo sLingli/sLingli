@@ -3,6 +3,7 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sLingli&theme=react-dark&bg_color=0D1117&hide_border=true" />
+![sLingli's GitHub stats](https://github-readme-stats.vercel.app/api?username=sLingli&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6CABDD&text_color=FFFFFF&icon_color=6CABDD&border_color=30363D)
 <img src="./languages.svg" alt="Languages" />
 
 <!--
