@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="208" viewBox="0 0 400 208">
+<rect width="400" height="208" rx="10" fill="#0D1117"/>
+<text x="20" y="30" fill="#6CABDD" font-size="16" font-weight="bold">sLingli's GitHub Stats</text>
+<line x1="20" y1="42" x2="380" y2="42" stroke="#30363D"/>
+<text x="20" y="60" fill="#8b949e" font-size="14">Repos</text><text x="280" y="60" fill="#6CABDD" font-size="16" font-weight="bold" text-anchor="end">7</text><text x="20" y="92" fill="#8b949e" font-size="14">Stars</text><text x="280" y="92" fill="#6CABDD" font-size="16" font-weight="bold" text-anchor="end">4</text><text x="20" y="124" fill="#8b949e" font-size="14">Forks</text><text x="280" y="124" fill="#6CABDD" font-size="16" font-weight="bold" text-anchor="end">0</text><text x="20" y="156" fill="#8b949e" font-size="14">Followers</text><text x="280" y="156" fill="#6CABDD" font-size="16" font-weight="bold" text-anchor="end">4</text>
+</svg>
