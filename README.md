@@ -3,7 +3,7 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sLingli&theme=react-dark&bg_color=0D1117&hide_border=true" />
-<img src="./assets/stats.svg" alt="Stats" />
+<img src="./profile/stats.svg" alt="GitHub Stats" />
 <img src="./languages.svg" alt="Languages" />
 
 <!--
