@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.56828392952383" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="383.56828392952383" y="0" width="51.324230014735264" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="434.8925139442591" y="0" width="25.10748605574088" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.4842045787047" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="342.4842045787047" y="0" width="71.68891444945565" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="414.1731190281604" y="0" width="45.82688097183965" height="8" fill="#7355dd"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,22 +35,9 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>83.38%</div>
+                                <div>74.45%</div>
                             </small>
                         </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Python
-                            </div>
-                            <small>
-                                <div>5.46%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -59,7 +46,20 @@
                                 C#
                             </div>
                             <small>
-                                <div>11.16%</div>
+                                <div>9.96%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Python
+                            </div>
+                            <small>
+                                <div>15.58%</div>
                             </small>
                         </div>
                     </section>
